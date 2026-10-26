@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 420" role="img" aria-labelledby="title"><title id="title">焦糖棕手提包</title><g stroke-linecap="round" stroke-linejoin="round">
+  <path d="M123 164v-46q0-57 57-57t57 57v46" fill="none" stroke="#78573f" stroke-width="16"/>
+  <path d="M123 164v-46q0-57 57-57t57 57v46" fill="none" stroke="#b18661" stroke-width="9"/>
+  <path d="M79 151h202l-14 188q-87 25-174 0z" fill="#b58761" stroke="#805e44" stroke-width="3"/>
+  <path d="m79 151 25 19 10 160m167-179-25 19-10 160M104 170h152M95 323q85 18 170 0" fill="none" stroke="#946b4b" stroke-width="2.5"/>
+  <path d="M115 139h17v43h-17zm113 0h17v43h-17z" fill="#8f6849" stroke="#77563f" stroke-width="2"/>
+  <g fill="#c5a37c"><circle cx="123.5" cy="167" r="3"/><circle cx="236.5" cy="167" r="3"/></g><rect x="159" y="190" width="42" height="15" rx="3" fill="#cfb284"/>
+  <path d="M168 197h24" stroke="#9c7c54" stroke-width="1.5"/></g></svg>

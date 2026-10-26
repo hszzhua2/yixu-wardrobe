@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 420" role="img" aria-labelledby="title"><title id="title">海军蓝条纹长袖</title><g stroke-linecap="round" stroke-linejoin="round">
+  <defs><pattern id="stripes" x="0" y="0" width="16" height="24" patternUnits="userSpaceOnUse"><rect width="16" height="24" fill="#e9e2d4"/><rect y="14" width="16" height="7" fill="#546578"/></pattern></defs>
+  <path d="M137 79 106 89 68 112 34 286 79 296 113 149 107 341q73 10 146 0l-6-192 34 147 45-10-34-174-38-23-31-10Z" fill="url(#stripes)" stroke="#657080" stroke-width="3"/>
+  <path d="M137 79q43 37 86 0l-8-9q-35 22-70 0z" fill="#667286" stroke="#56677b" stroke-width="2"/>
+  <path d="M108 329q72 9 144 0M40 276l42 9m196 0 42-9" stroke="#697588" stroke-width="2" fill="none"/></g></svg>

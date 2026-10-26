@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+.env
+.env.*
+node_modules/
+.cache/
+*.log
+*.xlsx
+*.xls
+*.zip
+*backup*.json
+*备份*.json
+backups/
+private/

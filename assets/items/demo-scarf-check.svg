@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 420" role="img" aria-labelledby="title"><title id="title">奶茶色格纹围巾</title><g stroke-linecap="round" stroke-linejoin="round">
+  <defs><pattern id="check" width="56" height="56" patternUnits="userSpaceOnUse"><rect width="56" height="56" fill="#d7c4a5"/><path d="M0 14h56M0 42h56M14 0v56M42 0v56" stroke="#ab8f70" stroke-width="10" opacity=".62"/><path d="M0 28h56M28 0v56" stroke="#846c58" stroke-width="2"/></pattern></defs>
+  <path d="m116 55 114 9-17 108-39 87-12 106-74-11 13-127 32-86z" fill="url(#check)" stroke="#a58e70" stroke-width="3"/>
+  <path d="m139 67 79 9-6 115 46 139-72 29-57-163z" fill="url(#check)" stroke="#a58e70" stroke-width="3"/>
+  <path d="m94 352-4 23m18-21-3 23m17-21-3 23m17-20-3 23m17-22-3 23M191 358l7 21m8-27 8 21m8-27 8 21m7-27 9 20m6-27 9 20" stroke="#a58e70" stroke-width="3" fill="none"/></g></svg>
